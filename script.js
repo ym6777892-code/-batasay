@@ -44,8 +44,8 @@ const MENU = [
     { ar: "كريب ميكس", en: "Mix Crepe", price: 155 }
   ]},
   { id: "drinks", ar: "مشروبات", en: "Drinks", items: [
-    { ar: "كولا", en: "Cola", price: 20 },
-    { ar: "مياه", en: "Water", price: 30 }
+    { ar: "كولا", en: "Cola", price: 30 },
+    { ar: "مياه", en: "Water", price: 20 }
   ]}
 ];
 
